@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  💬 Hobbies:
+  💬 My Hobbies:
 
   
- 📚. Reading
+ 📚 Reading
 
  
- 🖌 . Crafting 
+ 🖌 Crafting 
 
  
- 💻. Programming 
+ 💻 Programming 
