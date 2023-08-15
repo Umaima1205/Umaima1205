@@ -14,10 +14,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="umaimayousuf1205@gmail.com">
-    <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100085134920150&mibextid=ZbWKwL">
-    <img src="https://img.shields.io/badge/facebook-darkblue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
