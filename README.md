@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 <div id="header" align="center">
-  <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif" width="100"/>
+  <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
