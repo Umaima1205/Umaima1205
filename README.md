@@ -16,8 +16,8 @@ Here are some ideas to get you started:
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="your-facebook-URL">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="your-gmail-URL">
+    <img src="https://img.shields.io/badge/Gmail-Yellow?style=for-the-badge&logo=yellow&logoColor=white" alt="Yellow Badge"/>
   </a>
 </div>
 
