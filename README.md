@@ -29,5 +29,5 @@ Here are some ideas to get you started:
  💻 Programming 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <video src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://dribbble.com/shots/5551721-The-Life-Book-Laptop-and-Mobile)https://dribbble.com/shots/5551721-The-Life-Book-Laptop-and-Mobile" width="600" height="300"/>
 </div>
