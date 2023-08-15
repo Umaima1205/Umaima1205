@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="your-facebook-URL">
-    <img src="https://img.shields.io/badge/facebook-darkblue?style=for-the-badge&logo=darkblue&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
