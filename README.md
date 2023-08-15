@@ -5,7 +5,10 @@
 
 Here are some ideas to get you started:
 
- 
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 🔭 I’m currently working on 
 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 🌱 I’m currently learning Flutter 
 
   💬 My Hobbies:
